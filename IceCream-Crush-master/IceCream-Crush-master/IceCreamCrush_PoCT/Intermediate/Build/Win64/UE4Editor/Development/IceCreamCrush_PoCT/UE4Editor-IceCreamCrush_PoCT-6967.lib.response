@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-IceCreamCrush_PoCT-6967.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\IceCreamCrush_PoCT\Intermediate\Build\Win64\IceCreamCrush_PoCTEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Documents\Unreal Projects\IceCreamCrush_PoCT\Intermediate\Build\Win64\UE4Editor\Development\IceCreamCrush_PoCT\IceCreamCrush_PoCT.cpp.obj"
+"D:\Documents\Unreal Projects\IceCreamCrush_PoCT\Intermediate\Build\Win64\UE4Editor\Development\IceCreamCrush_PoCT\IceCreamCrush_PoCTCharacter.cpp.obj"
+"D:\Documents\Unreal Projects\IceCreamCrush_PoCT\Intermediate\Build\Win64\UE4Editor\Development\IceCreamCrush_PoCT\IceCreamCrush_PoCTGameMode.cpp.obj"
+"D:\Documents\Unreal Projects\IceCreamCrush_PoCT\Intermediate\Build\Win64\UE4Editor\Development\IceCreamCrush_PoCT\IceCreamCrush_PoCT.init.gen.cpp.obj"
+"D:\Documents\Unreal Projects\IceCreamCrush_PoCT\Intermediate\Build\Win64\UE4Editor\Development\IceCreamCrush_PoCT\IceCreamCrush_PoCTCharacter.gen.cpp.obj"
+"D:\Documents\Unreal Projects\IceCreamCrush_PoCT\Intermediate\Build\Win64\UE4Editor\Development\IceCreamCrush_PoCT\IceCreamCrush_PoCTGameMode.gen.cpp.obj"
+"D:\Documents\Unreal Projects\IceCreamCrush_PoCT\Intermediate\Build\Win64\UE4Editor\Development\IceCreamCrush_PoCT\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\IceCreamCrush_PoCT\Intermediate\Build\Win64\UE4Editor\Development\IceCreamCrush_PoCT\UE4Editor-IceCreamCrush_PoCT-6967.lib"
+/INCLUDE:IMPLEMENT_MODULE_IceCreamCrush_PoCT

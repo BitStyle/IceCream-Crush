@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\IceCreamCrush_PoCT.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EBCAB091-9872-4328-91CE-4CB8E119DF77}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\IceCreamCrush_PoCT.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\IceCreamCrush_PoCTEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{54264EBB-DB36-4338-A1B0-5A9B56CE5C9E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\IceCreamCrush_PoCT">
+      <UniqueIdentifier>{D9624208-0EF0-46A9-AE94-452F97488B80}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\IceCreamCrush_PoCT\BeatEmUpCharacter.cpp">
+      <Filter>Source\IceCreamCrush_PoCT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IceCreamCrush_PoCT\BeatEmUpCharacter.h">
+      <Filter>Source\IceCreamCrush_PoCT</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\IceCreamCrush_PoCT\IceCreamCrush_PoCT.Build.cs">
+      <Filter>Source\IceCreamCrush_PoCT</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\IceCreamCrush_PoCT\IceCreamCrush_PoCT.cpp">
+      <Filter>Source\IceCreamCrush_PoCT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IceCreamCrush_PoCT\IceCreamCrush_PoCT.h">
+      <Filter>Source\IceCreamCrush_PoCT</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IceCreamCrush_PoCT\IceCreamCrush_PoCTCharacter.cpp">
+      <Filter>Source\IceCreamCrush_PoCT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IceCreamCrush_PoCT\IceCreamCrush_PoCTCharacter.h">
+      <Filter>Source\IceCreamCrush_PoCT</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IceCreamCrush_PoCT\IceCreamCrush_PoCTGameMode.cpp">
+      <Filter>Source\IceCreamCrush_PoCT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IceCreamCrush_PoCT\IceCreamCrush_PoCTGameMode.h">
+      <Filter>Source\IceCreamCrush_PoCT</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

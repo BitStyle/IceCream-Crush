@@ -1,0 +1,1155 @@
+﻿Log file open, 10/14/19 16:25:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: IceCreamCrush_PoCT
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282426
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Warning: Incompatible or missing module: IceCreamCrush_PoCT
+Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/IceCreamCrush_PoCT.uproject" -TargetType=Editor -Progress -NoHotReloadFromIDE
+Creating makefile for IceCreamCrush_PoCTEditor (game project files are newer)
+@progress push 5%
+Parsing headers for IceCreamCrush_PoCTEditor
+  Running UnrealHeaderTool "C:\Users\crono\OneDrive\Desktop\IceCream-Crush-master\IceCream-Crush-master\IceCreamCrush_PoCT\IceCreamCrush_PoCT.uproject" "C:\Users\crono\OneDrive\Desktop\IceCream-Crush-master\IceCream-Crush-master\IceCreamCrush_PoCT\Intermediate\Build\Win64\IceCreamCrush_PoCTEditor\Development\IceCreamCrush_PoCTEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for IceCreamCrush_PoCTEditor in 4.1978839 seconds
+@progress pop
+Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 13 actions with 8 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 8%
+  [1/13] Default.rc2
+  @progress 'Compiling C++ source code...' 15%
+  [2/13] SharedPCH.Engine.cpp
+  @progress 'Compiling C++ source code...' 23%
+  [3/13] IceCreamCrush_PoCT.cpp
+  @progress 'Compiling C++ source code...' 31%
+  [4/13] IceCreamCrush_PoCT.init.gen.cpp
+  @progress 'Compiling C++ source code...' 38%
+  [5/13] IceCreamCrush_PoCTGameMode.gen.cpp
+  @progress 'Compiling C++ source code...' 46%
+  [6/13] BeatEmUpCharacter.gen.cpp
+  @progress 'Compiling C++ source code...' 54%
+  [7/13] IceCreamCrush_PoCTGameMode.cpp
+  @progress 'Compiling C++ source code...' 62%
+  [8/13] IceCreamCrush_PoCTCharacter.gen.cpp
+  @progress 'Compiling C++ source code...' 69%
+  [9/13] BeatEmUpCharacter.cpp
+  @progress 'Compiling C++ source code...' 77%
+  [10/13] IceCreamCrush_PoCTCharacter.cpp
+  @progress 'Compiling C++ source code...' 85%
+  [11/13] UE4Editor-IceCreamCrush_PoCT.lib
+     Creating library C:\Users\crono\OneDrive\Desktop\IceCream-Crush-master\IceCream-Crush-master\IceCreamCrush_PoCT\Intermediate\Build\Win64\UE4Editor\Development\IceCreamCrush_PoCT\UE4Editor-IceCreamCrush_PoCT.lib and object C:\Users\crono\OneDrive\Desktop\IceCream-Crush-master\IceCream-Crush-master\IceCreamCrush_PoCT\Intermediate\Build\Win64\UE4Editor\Development\IceCreamCrush_PoCT\UE4Editor-IceCreamCrush_PoCT.exp
+  @progress 'Compiling C++ source code...' 92%
+  [12/13] UE4Editor-IceCreamCrush_PoCT.dll
+     Creating library C:\Users\crono\OneDrive\Desktop\IceCream-Crush-master\IceCream-Crush-master\IceCreamCrush_PoCT\Intermediate\Build\Win64\UE4Editor\Development\IceCreamCrush_PoCT\UE4Editor-IceCreamCrush_PoCT.suppressed.lib and object C:\Users\crono\OneDrive\Desktop\IceCream-Crush-master\IceCream-Crush-master\IceCreamCrush_PoCT\Intermediate\Build\Win64\UE4Editor\Development\IceCreamCrush_PoCT\UE4Editor-IceCreamCrush_PoCT.suppressed.exp
+  @progress 'Compiling C++ source code...' 100%
+  [13/13] IceCreamCrush_PoCTEditor.target
+Total time in Parallel executor: 16.16 seconds
+Total execution time: 21.93 seconds
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Engine.ini]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Engine.ini]
+[2019.10.14-20.25.24:520][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Engine.ini]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Engine.ini]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.14-20.25.24:520][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Engine.ini]
+[2019.10.14-20.25.24:520][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Engine.ini]
+[2019.10.14-20.25.24:522][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.14-20.25.24:522][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.14-20.25.24:522][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.14-20.25.24:522][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.14-20.25.24:536][  0]LogHAL: Display: Platform has ~ 16 GB [17108058112 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.14-20.25.24:536][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.14-20.25.24:536][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.14-20.25.24:536][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Scalability.ini]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.14-20.25.24:537][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Config/Windows/Engine.ini]
+[2019.10.14-20.25.24:537][  0]LogInit: Computer: DESKTOP-OI1CD0P
+[2019.10.14-20.25.24:537][  0]LogInit: User: crono
+[2019.10.14-20.25.24:537][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.10.14-20.25.24:537][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.14-20.25.24:537][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.14-20.25.24:537][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.14-20.25.24:537][  0]LogMemory: Process Physical Memory: 101.70 MB used, 101.71 MB peak
+[2019.10.14-20.25.24:537][  0]LogMemory: Process Virtual Memory: 89.75 MB used, 89.75 MB peak
+[2019.10.14-20.25.24:537][  0]LogMemory: Physical Memory: 7330.35 MB used,  8985.16 MB free, 16315.52 MB total
+[2019.10.14-20.25.24:537][  0]LogMemory: Virtual Memory: 4695.38 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2019.10.14-20.25.24:547][  0]LogInit: Using OS detected language (en-US).
+[2019.10.14-20.25.24:547][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.14-20.25.24:547][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.14-20.25.24:649][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.14-20.25.24:669][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.14-20.25.24:669][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.14-20.25.24:778][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.14-20.25.24:778][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.14-20.25.24:831][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2019.10.14-20.25.24:831][  0]LogD3D11RHI:       11048/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.14-20.25.24:832][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.14-20.25.24:832][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.14-20.25.24:832][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.14-20.25.24:837][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.14-20.25.24:837][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.14-20.25.24:837][  0]LogWindows: EnumDisplayDevices:
+[2019.10.14-20.25.24:837][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2019.10.14-20.25.24:838][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.10.14-20.25.24:838][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.10.14-20.25.24:838][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.10.14-20.25.24:838][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.14-20.25.24:838][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2019.10.14-20.25.24:838][  0]LogD3D11RHI:   Driver Version: 419.67 (internal:25.21.14.1967, unified:419.67)
+[2019.10.14-20.25.24:838][  0]LogD3D11RHI:      Driver Date: 3-17-2019
+[2019.10.14-20.25.24:838][  0]LogRHI: Texture pool is 7733 MB (70% of 11048 MB)
+[2019.10.14-20.25.24:870][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.14-20.25.24:872][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.14-20.25.24:872][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.14-20.25.24:872][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.14-20.25.24:885][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.14-20.25.25:095][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.14-20.25.25:104][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.14-20.25.25:114][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.14-20.25.25:124][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.14-20.25.25:133][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.14-20.25.25:143][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.14-20.25.25:152][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.14-20.25.25:162][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.14-20.25.25:167][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.14-20.25.25:228][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.14-20.25.25:229][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.14-20.25.25:270][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.14-20.25.25:270][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.14-20.25.25:287][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.14-20.25.25:287][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.14-20.25.25:296][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.14-20.25.25:305][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.14-20.25.25:313][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.14-20.25.25:321][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.14-20.25.25:353][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.14-20.25.25:354][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.14-20.25.25:354][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.14-20.25.25:359][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.14-20.25.25:388][  0]LogShaderCompilers: Guid format shader working directory is -63 characters bigger than the processId version (../../../../../../Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Intermediate/Shaders/WorkingDirectory/4828/).
+[2019.10.14-20.25.25:389][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/crono/AppData/Local/Temp/UnrealShaderWorkingDir/0DF3124D47DEEC2FC404A48479F2EF24/'.
+[2019.10.14-20.25.25:390][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.14-20.25.25:390][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.14-20.25.25:390][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.14-20.25.25:779][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.14-20.25.25:823][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/crono/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.14-20.25.25:823][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/crono/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.14-20.25.25:823][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.14-20.25.25:823][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.14-20.25.25:823][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.14-20.25.25:823][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.14-20.25.25:832][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.14-20.25.25:832][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.14-20.25.25:832][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.14-20.25.25:844][  0]LogDerivedDataCache: Using Local data cache path C:/Users/crono/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.14-20.25.25:844][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.14-20.25.25:844][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.14-20.25.25:859][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.14-20.25.25:860][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.14-20.25.25:860][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.14-20.25.25:924][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2019.10.14-20.25.26:153][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.14-20.25.26:250][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.14-20.25.26:250][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.14-20.25.26:250][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.14-20.25.26:250][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.14-20.25.26:250][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.14-20.25.26:257][  0]LogNetVersion: IceCreamCrush_PoCT 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 300801119)
+[2019.10.14-20.25.26:567][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.034171 seconds
+[2019.10.14-20.25.26:572][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.14-20.25.26:572][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.14-20.25.26:572][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.14-20.25.27:134][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.14-20.25.27:147][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.14-20.25.27:405][  0]SourceControl: Source control is disabled
+[2019.10.14-20.25.27:405][  0]SourceControl: Source control is disabled
+[2019.10.14-20.25.27:406][  0]SourceControl: Source control is disabled
+[2019.10.14-20.25.27:406][  0]SourceControl: Source control is disabled
+[2019.10.14-20.25.27:454][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.14-20.25.27:504][  0]LogOcInput: OculusInput pre-init called
+[2019.10.14-20.25.27:983][  0]LogEngine: Initializing Engine...
+[2019.10.14-20.25.27:984][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.14-20.25.27:984][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.14-20.25.28:143][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.14-20.25.28:154][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.14-20.25.28:202][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-20.25.28:212][  0]LogInit: FAudioDevice initialized.
+[2019.10.14-20.25.28:212][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.14-20.25.28:260][  0]LogDerivedDataCache: Saved boot cache 0.05s 75MB C:/Users/crono/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.14-20.25.28:269][  0]LogInit: Texture streaming: Enabled
+[2019.10.14-20.25.28:282][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.14-20.25.28:298][  0]LogInit: Transaction tracking system initialized
+[2019.10.14-20.25.28:313][  0]BlueprintLog: New page: Editor Load
+[2019.10.14-20.25.28:369][  0]LocalizationService: Localization service is disabled
+[2019.10.14-20.25.28:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Content/' took 0.01s
+[2019.10.14-20.25.28:586][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.14-20.25.28:586][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.14-20.25.28:702][  0]SourceControl: Source control is disabled
+[2019.10.14-20.25.28:703][  0]LightingResults: New page: Lighting Build
+[2019.10.14-20.25.28:704][  0]MapCheck: New page: Map Check
+[2019.10.14-20.25.28:704][  0]LightingResults: New page: Lighting Build
+[2019.10.14-20.25.28:729][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.10.14-20.25.28:856][  0]LogAIModule: Creating AISystem for world ICC_Parlor
+[2019.10.14-20.25.28:874][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.14-20.25.28:897][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.10.14-20.25.28:897][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.14-20.25.28:897][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2019.10.14-20.25.28:897][  0]LogFileHelpers: Loading map 'ICC_Parlor' took 0.194
+[2019.10.14-20.25.29:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.25.29:006][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.25.29:011][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.25.29:017][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.25.29:020][  0]LogCollectionManager: Loaded 0 collections in 0.000984 seconds
+[2019.10.14-20.25.29:058][  0]LogFileCache: Scanning file cache for directory 'C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/Collections/' took 0.01s
+[2019.10.14-20.25.29:058][  0]LogFileCache: Scanning file cache for directory 'C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Content/Developers/crono/Collections/' took 0.01s
+[2019.10.14-20.25.29:058][  0]LogFileCache: Scanning file cache for directory 'C:/Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Content/Collections/' took 0.01s
+[2019.10.14-20.25.29:058][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.14-20.25.29:064][  0]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 2735 classes and 661 folders.
+[2019.10.14-20.25.29:068][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.14-20.25.29:069][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:069][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:071][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:071][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:071][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:072][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:072][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:072][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:072][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:073][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:073][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:073][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:074][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:074][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:074][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:074][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:075][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:075][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:075][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.14-20.25.29:092][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.14-20.25.29:096][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.14-20.25.29:147][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.14-20.25.29:148][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.14-20.25.29:152][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.14-20.25.29:192][  0]LogRenderer: Reallocating scene render targets to support 1004x456 Format 10 NumSamples 1 (Frame:1).
+[2019.10.14-20.25.29:332][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.14-20.25.29:332][  0]LogLoad: (Engine Initialization) Total time: 29.24 seconds
+[2019.10.14-20.25.29:332][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.14-20.25.29:360][  0]LogAssetRegistry: Asset discovery search completed in 3.4578 seconds
+[2019.10.14-20.25.29:361][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.14-20.25.29:361][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2019.10.14-20.25.29:362][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.14-20.25.29:422][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.14-20.25.30:354][107]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.14-20.25.42:848][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.25.45:727][949]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-20.25.45:739][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor'
+[2019.10.14-20.25.45:739][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-20.25.45:739][949]PIE: New page: PIE session: ICC_Parlor (Oct 14, 2019, 12:25:45 PM)
+[2019.10.14-20.25.45:752][949]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_Parlor
+[2019.10.14-20.25.45:766][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013959s)
+[2019.10.14-20.25.45:766][949]LogAIModule: Creating AISystem for world ICC_Parlor
+[2019.10.14-20.25.45:767][949]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2019.10.14-20.25.45:767][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_Parlor.ICC_Parlor (0.014792s)
+[2019.10.14-20.25.45:787][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.14-20.25.45:795][949]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-20.25.45:802][949]LogInit: FAudioDevice initialized.
+[2019.10.14-20.25.45:840][949]LogLoad: Game class is 'IceCreamCrush_PoCTGameMode'
+[2019.10.14-20.25.45:842][949]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_Parlor.ICC_Parlor up for play (max tick rate 0) at 2019.10.14-16.25.45
+[2019.10.14-20.25.45:843][949]LogWorld: Bringing up level for play took: 0.002634
+[2019.10.14-20.25.45:858][949]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.14-20.25.45:860][949]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-Cream
+[2019.10.14-20.25.45:861][949]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_Parlor -0.223
+[2019.10.14-20.25.45:861][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor'
+[2019.10.14-20.25.52:825][782]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.25.56:541][228]LogBlueprintUserMessages: [GameManager_2] Failure! Try again
+[2019.10.14-20.25.56:541][228]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-cream with Sprinkles
+[2019.10.14-20.26.00:158][662]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.00:584][713]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.00:909][752]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.01:167][783]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.01:408][812]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.01:675][844]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.01:967][879]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.02:225][910]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.02:416][933]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.02:608][956]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.08:300][639]LogBlueprintUserMessages: [PlayerProduct_2] Sprinkles Added
+[2019.10.14-20.26.10:342][884]LogBlueprintUserMessages: [GameManager_2] Failure! Try again
+[2019.10.14-20.26.10:342][884]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-Cream
+[2019.10.14-20.26.12:667][163]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.14:825][422]LogBlueprintUserMessages: [GameManager_2] Failure! Try again
+[2019.10.14-20.26.14:825][422]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-cream with Sprinkles
+[2019.10.14-20.26.17:367][727]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.20:092][ 54]LogBlueprintUserMessages: [PlayerProduct_2] Sprinkles Added
+[2019.10.14-20.26.23:135][419]LogBlueprintUserMessages: [GameManager_2] Failure! Try again
+[2019.10.14-20.26.23:135][419]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-Cream
+[2019.10.14-20.26.25:717][729]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.27:984][  1]LogBlueprintUserMessages: [GameManager_2] Failure! Try again
+[2019.10.14-20.26.27:984][  1]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-cream with Sprinkles
+[2019.10.14-20.26.30:135][259]LogBlueprintUserMessages: [PlayerProduct_2] Vanilla Ice Cream Added
+[2019.10.14-20.26.32:425][534]LogBlueprintUserMessages: [PlayerProduct_2] Sprinkles Added
+[2019.10.14-20.26.34:676][804]LogBlueprintUserMessages: [GameManager_2] Failure! Try again
+[2019.10.14-20.26.34:676][804]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-Cream
+[2019.10.14-20.26.37:693][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor'
+[2019.10.14-20.26.37:693][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.26.37:727][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-20.26.37:727][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor'
+[2019.10.14-20.26.37:750][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.26.37:752][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.10.14-20.26.37:796][170]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.14-20.26.45:721][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.26.45:821][133]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-20.26.45:834][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor'
+[2019.10.14-20.26.45:834][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-20.26.45:834][133]PIE: New page: PIE session: ICC_Parlor (Oct 14, 2019, 12:26:45 PM)
+[2019.10.14-20.26.45:834][133]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_Parlor
+[2019.10.14-20.26.45:845][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010516s)
+[2019.10.14-20.26.45:845][133]LogAIModule: Creating AISystem for world ICC_Parlor
+[2019.10.14-20.26.45:846][133]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2019.10.14-20.26.45:846][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_Parlor.ICC_Parlor (0.011406s)
+[2019.10.14-20.26.45:866][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.14-20.26.45:874][133]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-20.26.45:879][133]LogInit: FAudioDevice initialized.
+[2019.10.14-20.26.45:908][133]LogLoad: Game class is 'IceCreamCrush_PoCTGameMode'
+[2019.10.14-20.26.45:909][133]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_Parlor.ICC_Parlor up for play (max tick rate 0) at 2019.10.14-16.26.45
+[2019.10.14-20.26.45:909][133]LogWorld: Bringing up level for play took: 0.001166
+[2019.10.14-20.26.45:920][133]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-Cream
+[2019.10.14-20.26.45:920][133]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_Parlor -0.163
+[2019.10.14-20.26.45:920][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor'
+[2019.10.14-20.26.49:118][515]LogNet: Browse: /Game/ThirdPersonCPP/Maps/ICC_BeatUp??Game=/Game/Blueprints/BeatEmUpMode.BeatEmUpMode_C
+[2019.10.14-20.26.49:119][515]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/ICC_BeatUp??Game=/Game/Blueprints/BeatEmUpMode.BeatEmUpMode_C
+[2019.10.14-20.26.49:141][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.10.14-20.26.49:163][515]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.26.49:163][515]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.26.49:165][515]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.26.49:165][515]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.26.49:165][515]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.26.49:165][515]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.26.49:165][515]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.26.49:166][515]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.26.49:171][515]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.26.49:171][515]LoadErrors: Failed to load /Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData.ICC_BeatUp_BuiltData Referenced by PersistentLevel
+[2019.10.14-20.26.49:171][515]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.26.49:186][515]LogMaterial: Display: Missing cached shader map for material Enemy, compiling. 
+[2019.10.14-20.26.49:225][515]LogAIModule: Creating AISystem for world ICC_BeatUp
+[2019.10.14-20.26.49:228][515]LogLoad: Game class is 'BeatEmUpMode_C'
+[2019.10.14-20.26.49:231][515]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp up for play (max tick rate 0) at 2019.10.14-16.26.49
+[2019.10.14-20.26.49:231][515]LogWorld: Bringing up level for play took: 0.002815
+[2019.10.14-20.26.49:231][515]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.14-20.26.49:232][515]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-cream with Sprinkles
+[2019.10.14-20.26.49:233][515]LogLoad: Took 0.113718 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/ICC_BeatUp)
+[2019.10.14-20.27.07:660][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor'
+[2019.10.14-20.27.07:660][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.27.07:691][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-20.27.07:691][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor'
+[2019.10.14-20.27.07:721][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.27.07:724][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.10.14-20.27.07:760][723]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.10.14-20.27.08:786][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.27.08:903][860]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-20.27.08:916][860]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor'
+[2019.10.14-20.27.08:916][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-20.27.08:916][860]PIE: New page: PIE session: ICC_Parlor (Oct 14, 2019, 12:27:08 PM)
+[2019.10.14-20.27.08:916][860]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_Parlor
+[2019.10.14-20.27.08:927][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011193s)
+[2019.10.14-20.27.08:928][860]LogAIModule: Creating AISystem for world ICC_Parlor
+[2019.10.14-20.27.08:928][860]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2019.10.14-20.27.08:928][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_Parlor.ICC_Parlor (0.011981s)
+[2019.10.14-20.27.08:949][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.14-20.27.08:957][860]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-20.27.08:964][860]LogInit: FAudioDevice initialized.
+[2019.10.14-20.27.08:993][860]LogLoad: Game class is 'IceCreamCrush_PoCTGameMode'
+[2019.10.14-20.27.08:994][860]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_Parlor.ICC_Parlor up for play (max tick rate 0) at 2019.10.14-16.27.08
+[2019.10.14-20.27.08:994][860]LogWorld: Bringing up level for play took: 0.001293
+[2019.10.14-20.27.09:006][860]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-cream with Sprinkles
+[2019.10.14-20.27.09:006][860]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_Parlor 0.922
+[2019.10.14-20.27.09:007][860]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor'
+[2019.10.14-20.27.16:653][776]LogNet: Browse: /Game/ThirdPersonCPP/Maps/ICC_BeatUp??Game=/Game/Blueprints/BeatEmUpMode.BeatEmUpMode_C
+[2019.10.14-20.27.16:653][776]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/ICC_BeatUp??Game=/Game/Blueprints/BeatEmUpMode.BeatEmUpMode_C
+[2019.10.14-20.27.16:674][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.10.14-20.27.16:677][776]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.27.16:677][776]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.27.16:678][776]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.27.16:679][776]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.27.16:679][776]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.27.16:679][776]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.27.16:679][776]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.27.16:680][776]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.27.16:685][776]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.27.16:685][776]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.27.16:691][776]LogAIModule: Creating AISystem for world ICC_BeatUp
+[2019.10.14-20.27.16:691][776]LogLoad: Game class is 'BeatEmUpMode_C'
+[2019.10.14-20.27.16:694][776]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp up for play (max tick rate 0) at 2019.10.14-16.27.16
+[2019.10.14-20.27.16:695][776]LogWorld: Bringing up level for play took: 0.002963
+[2019.10.14-20.27.16:695][776]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.14-20.27.16:695][776]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-cream with Sprinkles
+[2019.10.14-20.27.16:695][776]LogLoad: Took 0.041806 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/ICC_BeatUp)
+[2019.10.14-20.27.25:392][819]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor'
+[2019.10.14-20.27.25:392][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.27.25:419][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-20.27.25:419][819]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_Parlor.ICC_Parlor:PersistentLevel.ICC_Parlor'
+[2019.10.14-20.27.25:442][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.27.25:444][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.10.14-20.27.25:493][824]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.14-20.27.26:679][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.27.26:886][990]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BeatEmUp/BeatEmUpController.BeatEmUpController
+[2019.10.14-20.27.27:053][990]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.10.14-20.27.27:615][990]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.14-20.27.45:987][666]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.27.45:987][666]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.27.45:989][666]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.27.45:989][666]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.27.45:989][666]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.27.45:989][666]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.27.45:989][666]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.27.45:990][666]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.27.45:995][666]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData'
+[2019.10.14-20.27.45:995][666]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonCPP/Maps/ICC_BeatUp_BuiltData' while loading NULL.
+[2019.10.14-20.27.46:001][666]LogAIModule: Creating AISystem for world ICC_BeatUp
+[2019.10.14-20.27.46:035][666]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp
+[2019.10.14-20.27.46:064][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.14-20.27.46:065][666]LightingResults: New page: Lighting Build
+[2019.10.14-20.27.46:065][666]LoadErrors: New page: Loading map: ICC_BeatUp.umap
+[2019.10.14-20.27.46:066][666]MapCheck: New page: Map Check
+[2019.10.14-20.27.46:066][666]LightingResults: New page: Lighting Build
+[2019.10.14-20.27.46:092][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.14-20.27.46:158][666]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.14-20.27.46:185][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.10.14-20.27.46:207][666]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.14-20.27.46:207][666]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2019.10.14-20.27.46:207][666]LogFileHelpers: Loading map 'ICC_BeatUp' took 0.143
+[2019.10.14-20.28.00:806][412]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.14-20.28.01:571][501]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.14-20.28.02:305][588]LogEditorViewport: Clicking on Actor (LMB): BeatEmUpController_C (BeatEmUpController)
+[2019.10.14-20.28.06:865][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.28.12:905][831]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.14-20.28.40:977][718]LogRenderer: Reallocating scene render targets to support 1004x720 Format 10 NumSamples 1 (Frame:1).
+[2019.10.14-20.29.20:799][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.29.20:891][727]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-20.29.20:907][727]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.29.20:907][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-20.29.20:907][727]PIE: New page: PIE session: ICC_BeatUp (Oct 14, 2019, 12:29:20 PM)
+[2019.10.14-20.29.20:907][727]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp
+[2019.10.14-20.29.20:925][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016964s)
+[2019.10.14-20.29.20:925][727]LogAIModule: Creating AISystem for world ICC_BeatUp
+[2019.10.14-20.29.20:926][727]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2019.10.14-20.29.20:926][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp (0.018171s)
+[2019.10.14-20.29.20:983][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.14-20.29.20:991][727]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-20.29.20:998][727]LogInit: FAudioDevice initialized.
+[2019.10.14-20.29.21:027][727]LogLoad: Game class is 'BeatEmUpMode_C'
+[2019.10.14-20.29.21:029][727]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp up for play (max tick rate 0) at 2019.10.14-16.29.21
+[2019.10.14-20.29.21:030][727]LogWorld: Bringing up level for play took: 0.001543
+[2019.10.14-20.29.21:042][727]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-cream with Sprinkles
+[2019.10.14-20.29.21:042][727]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp 0.958
+[2019.10.14-20.29.21:043][727]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.29.25:937][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.29.25:937][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.29.25:969][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-20.29.25:969][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.29.25:998][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.29.26:001][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.10.14-20.29.26:041][316]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.14-20.29.30:334][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.30.33:971][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.30.41:421][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.30.45:139][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.31.06:037][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.31.43:285][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.31.48:197][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.32.02:488][731]LogEditorViewport: Clicking on Actor (LMB): BeatEmUpCamera_Blueprint_C (BeatEmUpCamera_Blueprint)
+[2019.10.14-20.32.04:316][942]LogEditorViewport: Clicking on Actor (LMB): BeatEmUpCamera_Blueprint_C (BeatEmUpCamera_Blueprint)
+[2019.10.14-20.32.07:473][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.32.07:598][335]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-20.32.07:611][335]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.32.07:611][335]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.14-20.32.07:618][335]LogPlayLevel: [PlayLevel] Compiling BeatEmUpController before play...
+[2019.10.14-20.32.07:778][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.10.14-20.32.07:778][335]LogPlayLevel: PlayLevel: Blueprint regeneration took 167 ms (1 blueprints)
+[2019.10.14-20.32.07:778][335]PIE: New page: PIE session: ICC_BeatUp (Oct 14, 2019, 12:32:07 PM)
+[2019.10.14-20.32.07:779][335]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp
+[2019.10.14-20.32.07:793][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013231s)
+[2019.10.14-20.32.07:793][335]LogAIModule: Creating AISystem for world ICC_BeatUp
+[2019.10.14-20.32.07:793][335]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2019.10.14-20.32.07:793][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp (0.013973s)
+[2019.10.14-20.32.07:819][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.10.14-20.32.07:829][335]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-20.32.07:836][335]LogInit: FAudioDevice initialized.
+[2019.10.14-20.32.07:870][335]LogLoad: Game class is 'BeatEmUpMode_C'
+[2019.10.14-20.32.07:871][335]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp up for play (max tick rate 0) at 2019.10.14-16.32.07
+[2019.10.14-20.32.07:872][335]LogWorld: Bringing up level for play took: 0.001172
+[2019.10.14-20.32.07:883][335]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-Cream
+[2019.10.14-20.32.07:883][335]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp -0.2
+[2019.10.14-20.32.07:884][335]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.32.23:590][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.32.23:591][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.32.23:622][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-20.32.23:623][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.32.23:656][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.32.23:659][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.14-20.32.23:693][217]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.14-20.32.25:618][448]LogEditorViewport: Clicking on Actor (LMB): BeatEmUpCamera_Blueprint_C (BeatEmUpCamera_Blueprint)
+[2019.10.14-20.32.29:367][887]Cmd: DELETE
+[2019.10.14-20.32.29:368][887]Cmd: ACTOR DELETE
+[2019.10.14-20.32.29:371][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.32.33:672][887]LogSlate: Window 'Message' being destroyed
+[2019.10.14-20.32.33:676][887]LogEditorActor: Deleted Actor: BeatEmUpCamera_Blueprint_C
+[2019.10.14-20.32.33:727][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.14-20.32.33:727][887]LogEditorActor: Deleted 1 Actors (4.360 secs)
+[2019.10.14-20.32.35:143][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.32.35:275][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-20.32.35:291][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.32.35:291][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-20.32.35:291][ 69]PIE: New page: PIE session: ICC_BeatUp (Oct 14, 2019, 12:32:35 PM)
+[2019.10.14-20.32.35:291][ 69]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp
+[2019.10.14-20.32.35:300][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009385s)
+[2019.10.14-20.32.35:301][ 69]LogAIModule: Creating AISystem for world ICC_BeatUp
+[2019.10.14-20.32.35:301][ 69]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2019.10.14-20.32.35:301][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp (0.010015s)
+[2019.10.14-20.32.35:328][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.10.14-20.32.35:338][ 69]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-20.32.35:345][ 69]LogInit: FAudioDevice initialized.
+[2019.10.14-20.32.35:371][ 69]LogLoad: Game class is 'BeatEmUpMode_C'
+[2019.10.14-20.32.35:372][ 69]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp up for play (max tick rate 0) at 2019.10.14-16.32.35
+[2019.10.14-20.32.35:372][ 69]LogWorld: Bringing up level for play took: 0.001161
+[2019.10.14-20.32.35:384][ 69]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-Cream
+[2019.10.14-20.32.35:384][ 69]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp -0.7
+[2019.10.14-20.32.35:385][ 69]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.32.43:414][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.32.43:414][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.32.43:443][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-20.32.43:443][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.32.43:472][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.32.43:475][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.14-20.32.43:513][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.14-20.32.46:150][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.32.49:944][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.33.01:365][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.33.02:799][272]Cmd: TRANSACTION UNDO
+[2019.10.14-20.33.02:799][272]LogEditorTransaction: Undo Delete Actors
+[2019.10.14-20.33.12:291][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.10.14-20.33.12:296][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.33.12:335][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.10.14-20.33.12:473][376]LogSavePackage: Moving '../../../../../../Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/ICC_BeatUp09F7271B4657C33D5C509FBFC69D11F1.tmp' to '../../../../../../Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Content/ThirdPersonCPP/Maps/ICC_BeatUp.umap'
+[2019.10.14-20.33.12:502][376]LogFileHelpers: Saving map 'ICC_BeatUp' took 0.196
+[2019.10.14-20.33.12:552][376]LogSavePackage: Moving '../../../../../../Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/BeatEmUpControllerFC4D7DA04159B1AB3F746497040E0484.tmp' to '../../../../../../Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Content/ThirdPersonCPP/Blueprints/BeatEmUp/BeatEmUpController.uasset'
+[2019.10.14-20.33.16:282][797]LogEditorViewport: Clicking on Actor (LMB): BeatEmUpController_C (BeatEmUpController)
+[2019.10.14-20.33.18:614][ 63]LogEditorViewport: Clicking on Actor (LMB): BeatEmUpCamera_Blueprint_C (BeatEmUpCamera_Blueprint)
+[2019.10.14-20.33.20:659][297]LogEditorViewport: Clicking on Actor (LMB): BeatEmUpController_C (BeatEmUpController)
+[2019.10.14-20.33.22:020][448]LogEditorViewport: Clicking on Actor (LMB): BeatEmUpCamera_Blueprint_C (BeatEmUpCamera_Blueprint)
+[2019.10.14-20.33.24:952][788]LogEditorViewport: Clicking on Actor (LMB): BeatEmUpController_C (BeatEmUpController)
+[2019.10.14-20.33.33:690][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.33.44:095][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.33.47:432][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.33.47:532][926]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-20.33.47:545][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.33.47:545][926]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.14-20.33.47:549][926]LogPlayLevel: [PlayLevel] Compiling BeatEmUpController before play...
+[2019.10.14-20.33.47:760][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.10.14-20.33.47:760][926]LogPlayLevel: PlayLevel: Blueprint regeneration took 215 ms (1 blueprints)
+[2019.10.14-20.33.47:760][926]PIE: New page: PIE session: ICC_BeatUp (Oct 14, 2019, 12:33:47 PM)
+[2019.10.14-20.33.47:760][926]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp
+[2019.10.14-20.33.47:771][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011176s)
+[2019.10.14-20.33.47:772][926]LogAIModule: Creating AISystem for world ICC_BeatUp
+[2019.10.14-20.33.47:772][926]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2019.10.14-20.33.47:772][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp (0.011821s)
+[2019.10.14-20.33.47:798][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.14-20.33.47:808][926]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-20.33.47:815][926]LogInit: FAudioDevice initialized.
+[2019.10.14-20.33.47:843][926]LogLoad: Game class is 'BeatEmUpMode_C'
+[2019.10.14-20.33.47:844][926]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp up for play (max tick rate 0) at 2019.10.14-16.33.47
+[2019.10.14-20.33.47:845][926]LogWorld: Bringing up level for play took: 0.001202
+[2019.10.14-20.33.47:857][926]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-cream with Sprinkles
+[2019.10.14-20.33.47:857][926]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp -0.227
+[2019.10.14-20.33.47:858][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.33.51:482][357]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.33.51:482][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.33.51:510][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-20.33.51:510][357]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.33.51:539][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.33.51:541][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.14-20.33.51:584][362]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.14-20.33.53:355][574]LogEditorViewport: Clicking on Actor (LMB): BeatEmUpCamera_Blueprint_C (BeatEmUpCamera_Blueprint)
+[2019.10.14-20.33.57:805][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.33.58:000][113]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BeatEmUp/BeatEmUpCamera_Blueprint.BeatEmUpCamera_Blueprint
+[2019.10.14-20.34.25:144][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.34.31:638][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.34.31:722][603]LogSlate: Window 'BeatEmUpCamera_Blueprint' being destroyed
+[2019.10.14-20.34.31:727][603]LogSlate: Window 'BeatEmUpCamera_Blueprint' being destroyed
+[2019.10.14-20.34.31:793][603]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.14-20.34.33:767][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.10.14-20.34.35:820][829]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.14-20.34.37:285][986]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.14-20.34.38:410][104]LogEditorViewport: Clicking on Actor (LMB): BeatEmUpCamera_Blueprint_C (BeatEmUpCamera_Blueprint)
+[2019.10.14-20.34.39:754][257]Cmd: DELETE
+[2019.10.14-20.34.39:754][257]Cmd: ACTOR DELETE
+[2019.10.14-20.34.39:757][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.34.47:897][257]LogSlate: Window 'Message' being destroyed
+[2019.10.14-20.34.47:923][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.10.14-20.34.47:924][257]LogEditorActor: Deleted 0 Actors (8.170 secs)
+[2019.10.14-20.34.50:287][526]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.34.51:792][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.34.51:793][704]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp
+[2019.10.14-20.35.24:792][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.35.24:908][581]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-20.35.24:921][581]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.35.24:921][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-20.35.24:921][581]PIE: New page: PIE session: ICC_BeatUp (Oct 14, 2019, 12:35:24 PM)
+[2019.10.14-20.35.24:921][581]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp
+[2019.10.14-20.35.24:931][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010190s)
+[2019.10.14-20.35.24:932][581]LogAIModule: Creating AISystem for world ICC_BeatUp
+[2019.10.14-20.35.24:932][581]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2019.10.14-20.35.24:932][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp (0.011472s)
+[2019.10.14-20.35.24:959][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.10.14-20.35.24:967][581]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-20.35.24:973][581]LogInit: FAudioDevice initialized.
+[2019.10.14-20.35.25:000][581]LogLoad: Game class is 'BeatEmUpMode_C'
+[2019.10.14-20.35.25:001][581]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp up for play (max tick rate 0) at 2019.10.14-16.35.25
+[2019.10.14-20.35.25:001][581]LogWorld: Bringing up level for play took: 0.001134
+[2019.10.14-20.35.25:013][581]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-Cream
+[2019.10.14-20.35.25:013][581]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_Event', from offset 0
+[2019.10.14-20.35.25:013][581]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C:ReceiveBeginPlay
+
+[2019.10.14-20.35.37:359][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.35.45:363][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.35.46:008][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.35.48:371][581]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp 24.286
+[2019.10.14-20.35.48:371][581]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.35.48:394][581]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.35.48:394][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.35.48:428][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-20.35.48:429][581]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.35.48:456][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.35.48:459][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.10.14-20.35.48:469][582]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.14-20.35.58:921][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.36.16:192][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.36.16:301][836]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-20.36.16:314][836]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.36.16:314][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-20.36.16:314][836]PIE: New page: PIE session: ICC_BeatUp (Oct 14, 2019, 12:36:16 PM)
+[2019.10.14-20.36.16:315][836]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp
+[2019.10.14-20.36.16:323][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008687s)
+[2019.10.14-20.36.16:324][836]LogAIModule: Creating AISystem for world ICC_BeatUp
+[2019.10.14-20.36.16:324][836]LogPlayLevel: PIE: World Init took: (0.000472s)
+[2019.10.14-20.36.16:324][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp (0.009367s)
+[2019.10.14-20.36.16:348][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.14-20.36.16:356][836]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-20.36.16:362][836]LogInit: FAudioDevice initialized.
+[2019.10.14-20.36.16:393][836]LogLoad: Game class is 'BeatEmUpMode_C'
+[2019.10.14-20.36.16:400][836]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp up for play (max tick rate 0) at 2019.10.14-16.36.16
+[2019.10.14-20.36.16:400][836]LogWorld: Bringing up level for play took: 0.005316
+[2019.10.14-20.36.16:414][836]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-Cream
+[2019.10.14-20.36.16:414][836]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp 0.33
+[2019.10.14-20.36.16:414][836]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.36.27:062][112]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.36.27:062][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.36.27:090][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-20.36.27:090][112]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.36.27:119][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.36.27:122][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.14-20.36.27:162][115]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.14-20.36.29:346][377]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (40.877 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.14-20.36.29:479][393]LogEditorViewport: Clicking on Actor (LMB): BeatEmUpController_C (BeatEmUpController)
+[2019.10.14-20.36.32:796][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.36.32:972][798]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BeatEmUp/BeatEmUpController.BeatEmUpController
+[2019.10.14-20.36.39:184][364]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.14-20.36.39:489][390]LogEditorTransaction: Undo Delete Actors
+[2019.10.14-20.36.39:788][409]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.14-20.36.40:229][450]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.14-20.36.40:655][487]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.14-20.36.41:003][525]LogEditorTransaction: Undo Modify Component(s)
+[2019.10.14-20.36.41:607][594]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.14-20.36.41:981][629]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.14-20.36.42:294][653]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.14-20.36.42:641][682]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.14-20.36.43:214][734]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.14-20.37.23:243][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.38.35:214][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.38.36:032][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.38.36:052][837]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.10.14-20.38.36:732][837]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.14-20.39.03:753][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.10.14-20.39.03:757][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-20.39.03:796][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.10.14-20.39.03:964][ 11]LogSavePackage: Moving '../../../../../../Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/ICC_BeatUp3FFB36824D130820FFD319BD039F8E85.tmp' to '../../../../../../Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Content/ThirdPersonCPP/Maps/ICC_BeatUp.umap'
+[2019.10.14-20.39.03:997][ 11]LogFileHelpers: Saving map 'ICC_BeatUp' took 0.236
+[2019.10.14-20.39.04:044][ 11]LogSavePackage: Moving '../../../../../../Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Saved/BeatEmUpController8FF60DB748DB0D66E40D28906C5E6CFD.tmp' to '../../../../../../Users/crono/OneDrive/Desktop/IceCream-Crush-master/IceCream-Crush-master/IceCreamCrush_PoCT/Content/ThirdPersonCPP/Blueprints/BeatEmUp/BeatEmUpController.uasset'
+[2019.10.14-20.39.05:726][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.39.05:875][227]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-20.39.05:887][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.39.05:887][227]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.14-20.39.05:889][227]LogPlayLevel: [PlayLevel] Compiling BeatEmUpController before play...
+[2019.10.14-20.39.05:895][227]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_2:PersistentLevel.BeatEmUpController_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0136
+[2019.10.14-20.39.05:896][227]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_BeatEmUpController_C_0
+[2019.10.14-20.39.06:008][227]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_2:PersistentLevel.BeatEmUpController_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0136
+[2019.10.14-20.39.06:017][227]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	ThirdPerson_AnimBP_C /Engine/Transient.World_2:PersistentLevel.BeatEmUpController_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0136
+[2019.10.14-20.39.06:051][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.10.14-20.39.06:051][227]LogPlayLevel: PlayLevel: Blueprint regeneration took 163 ms (1 blueprints)
+[2019.10.14-20.39.06:051][227]PIE: New page: PIE session: ICC_BeatUp (Oct 14, 2019, 12:39:06 PM)
+[2019.10.14-20.39.06:051][227]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp
+[2019.10.14-20.39.06:061][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010478s)
+[2019.10.14-20.39.06:062][227]LogAIModule: Creating AISystem for world ICC_BeatUp
+[2019.10.14-20.39.06:063][227]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2019.10.14-20.39.06:063][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp (0.011815s)
+[2019.10.14-20.39.06:092][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.10.14-20.39.06:100][227]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-20.39.06:107][227]LogInit: FAudioDevice initialized.
+[2019.10.14-20.39.06:132][227]LogLoad: Game class is 'BeatEmUpMode_C'
+[2019.10.14-20.39.06:133][227]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp.ICC_BeatUp up for play (max tick rate 0) at 2019.10.14-16.39.06
+[2019.10.14-20.39.06:133][227]LogWorld: Bringing up level for play took: 0.001200
+[2019.10.14-20.39.06:145][227]LogBlueprintUserMessages: [GameManager_2] Vanilla Ice-Cream
+[2019.10.14-20.39.06:145][227]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ICC_BeatUp 0.061
+[2019.10.14-20.39.06:146][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.39.08:903][553]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.10:886][791]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.11:836][905]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.13:203][ 69]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.14:578][234]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.16:061][412]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.16:444][458]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.16:761][496]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.20:695][968]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.21:345][ 46]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.22:361][168]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.23:711][330]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.25:278][518]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.26:512][666]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.27:120][739]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.27:694][808]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.28:212][870]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.28:678][926]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.29:136][981]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.29:761][ 56]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.30:094][ 96]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.30:437][137]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.30:920][195]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.31:311][242]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.31:661][284]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.34:278][598]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.35:886][791]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.37:095][936]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.37:903][ 33]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.38:611][118]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.41:437][457]LogBlueprintUserMessages: [BeatEmUpController_2] You punched
+[2019.10.14-20.39.44:354][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.39.44:355][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.39.44:385][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-20.39.44:385][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ICC_BeatUp.ICC_BeatUp:PersistentLevel.ICC_BeatUp'
+[2019.10.14-20.39.44:416][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-20.39.44:419][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.14-20.39.44:460][810]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.14-20.39.55:729][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.42.50:685][ 91]LogEditorViewport: Clicking on Actor (LMB): EnemyBlueprint_C (EnemyBlueprint)
+[2019.10.14-20.42.51:692][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-20.42.51:885][230]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BeatEmUp/EnemyBlueprint.EnemyBlueprint
+[2019.10.14-20.42.52:480][268]LogUObjectArray: Warning: Invalid object index 7077985
+[2019.10.14-20.42.52:482][268]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.14-20.42.52:857][268]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.375 s
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: 
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: Stack: 
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc2b13c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc2a9b6fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc2a9c4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc316037f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc28e65cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc28e21e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc33b85984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc33d715e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc33bcd70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc33baaf5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc33ba0287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc6d3ab726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc6d39ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc6d3ad77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc6d39c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc946d63ed USER32.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc946d5de2 USER32.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc6d3ae946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ff641bd5d3e UE4Editor.exe!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ff641be554c UE4Editor.exe!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ff641be55ca UE4Editor.exe!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ff641bf316c UE4Editor.exe!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ff641bf5b8e UE4Editor.exe!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc94547bd4 KERNEL32.DLL!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: [Callstack] 0x00007ffc9648ced1 ntdll.dll!UnknownFunction []
+[2019.10.14-20.42.52:857][268]LogOutputDevice: Error: 
+[2019.10.14-20.42.52:866][268]LogStats:                SubmitErrorReport -  0.000 s
