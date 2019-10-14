@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\IceCreamAndCrush2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6B7D338C-2194-407D-93FB-3BA81978149D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\IceCreamAndCrush2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\IceCreamAndCrush2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D81DC738-23C2-4EF2-ABA7-2A3DB709FDAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\IceCreamAndCrush2">
+      <UniqueIdentifier>{6041237E-2847-434C-AAB3-7A0A0876FBA1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\IceCreamAndCrush2\IceCreamAndCrush2.Build.cs">
+      <Filter>Source\IceCreamAndCrush2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\IceCreamAndCrush2\IceCreamAndCrush2.cpp">
+      <Filter>Source\IceCreamAndCrush2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IceCreamAndCrush2\IceCreamAndCrush2.h">
+      <Filter>Source\IceCreamAndCrush2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IceCreamAndCrush2\IceCreamAndCrush2Character.cpp">
+      <Filter>Source\IceCreamAndCrush2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IceCreamAndCrush2\IceCreamAndCrush2Character.h">
+      <Filter>Source\IceCreamAndCrush2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IceCreamAndCrush2\IceCreamAndCrush2GameMode.cpp">
+      <Filter>Source\IceCreamAndCrush2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IceCreamAndCrush2\IceCreamAndCrush2GameMode.h">
+      <Filter>Source\IceCreamAndCrush2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

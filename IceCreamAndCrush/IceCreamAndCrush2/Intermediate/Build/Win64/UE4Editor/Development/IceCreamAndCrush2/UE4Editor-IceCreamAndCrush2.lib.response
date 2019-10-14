@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-IceCreamAndCrush2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\IceCreamAndCrush2\Intermediate\Build\Win64\IceCreamAndCrush2Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\IceCreamAndCrush2\Intermediate\Build\Win64\UE4Editor\Development\IceCreamAndCrush2\IceCreamAndCrush2.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\IceCreamAndCrush2\Intermediate\Build\Win64\UE4Editor\Development\IceCreamAndCrush2\IceCreamAndCrush2Character.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\IceCreamAndCrush2\Intermediate\Build\Win64\UE4Editor\Development\IceCreamAndCrush2\IceCreamAndCrush2GameMode.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\IceCreamAndCrush2\Intermediate\Build\Win64\UE4Editor\Development\IceCreamAndCrush2\IceCreamAndCrush2.init.gen.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\IceCreamAndCrush2\Intermediate\Build\Win64\UE4Editor\Development\IceCreamAndCrush2\IceCreamAndCrush2Character.gen.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\IceCreamAndCrush2\Intermediate\Build\Win64\UE4Editor\Development\IceCreamAndCrush2\IceCreamAndCrush2GameMode.gen.cpp.obj"
+"C:\Users\crono\OneDrive\Documents\Unreal Projects\IceCreamAndCrush2\Intermediate\Build\Win64\UE4Editor\Development\IceCreamAndCrush2\Default.rc2.res"
+/OUT:"C:\Users\crono\OneDrive\Documents\Unreal Projects\IceCreamAndCrush2\Intermediate\Build\Win64\UE4Editor\Development\IceCreamAndCrush2\UE4Editor-IceCreamAndCrush2.lib"
+/INCLUDE:IMPLEMENT_MODULE_IceCreamAndCrush2

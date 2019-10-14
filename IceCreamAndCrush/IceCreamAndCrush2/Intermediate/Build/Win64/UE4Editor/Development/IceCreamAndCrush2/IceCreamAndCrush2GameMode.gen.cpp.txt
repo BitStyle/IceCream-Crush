@@ -1,0 +1,9 @@
+C:\Users\crono\OneDrive\Documents\Unreal Projects\IceCreamAndCrush2\Intermediate\Build\Win64\UE4Editor\Development\IceCreamAndCrush2\Definitions.IceCreamAndCrush2.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\crono\OneDrive\Documents\Unreal Projects\IceCreamAndCrush2\Source\IceCreamAndCrush2/IceCreamAndCrush2GameMode.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+c:\users\crono\onedrive\documents\unreal projects\icecreamandcrush2\intermediate\build\win64\ue4editor\inc\icecreamandcrush2\IceCreamAndCrush2GameMode.generated.h

@@ -1,0 +1,3 @@
+C:\Users\crono\OneDrive\Documents\Unreal Projects\IceCreamAndCrush2\Intermediate\Build\Win64\UE4Editor\Development\IceCreamAndCrush2\Definitions.IceCreamAndCrush2.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
