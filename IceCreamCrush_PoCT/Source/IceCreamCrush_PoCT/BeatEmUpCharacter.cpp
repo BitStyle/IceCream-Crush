@@ -61,8 +61,7 @@ void ABeatEmUpCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputC
 	//PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	//PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 
-	PlayerInputComponent->BindAxis("MoveForward", this, &ABeatEmUpCharacter::MoveForward);
-	PlayerInputComponent->BindAxis("MoveRight", this, &ABeatEmUpCharacter::MoveRight);
+	/*PlayerInputComponent->BindAxis("MoveRight", this, &ABeatEmUpCharacter::MoveRight);*/
 
 	// We have 2 versions of the rotation bindings to handle different kinds of devices differently
 	// "turn" handles devices that provide an absolute delta, such as a mouse.
@@ -74,44 +73,30 @@ void ABeatEmUpCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputC
 
 }
 
-void ABeatEmUpCharacter::MoveForward(float Value)
-{
-	if ((Controller != NULL) && (Value != 0.0f))
-	{
-		// find out which way is forward
-		const FRotator Rotation = Controller->GetControlRotation();
-		const FRotator YawRotation(0, Rotation.Yaw, 0);
-
-		// get forward vector
-		const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
-		AddMovementInput(Direction, Value);
-	}
-}
-
-void ABeatEmUpCharacter::MoveRight(float Value)
-{
-	if ((Controller != NULL) && (Value != 0.0f))
-	{
-		// find out which way is right
-		const FRotator Rotation = Controller->GetControlRotation();
-		const FRotator YawRotation(0, Rotation.Yaw, 0);
-
-		// get right vector 
-		const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
-		// add movement in that direction
-		AddMovementInput(Direction, Value);
-	}
-}
+//void ABeatEmUpCharacter::MoveRight(float Value)
+//{
+//	if ((Controller != NULL) && (Value != 0.0f))
+//	{
+//		// find out which way is right
+//		const FRotator Rotation = Controller->GetControlRotation();
+//		const FRotator YawRotation(0, Rotation.Yaw, 0);
+//
+//		// get right vector 
+//		const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
+//		// add movement in that direction
+//		AddMovementInput(Direction, Value);
+//	}
+//}
 
 void ABeatEmUpCharacter::TurnAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
-	AddControllerYawInput(Rate * BaseTurnRate * GetWorld()->GetDeltaSeconds());
+	//AddControllerYawInput(Rate * BaseTurnRate * GetWorld()->GetDeltaSeconds());
 }
 
 void ABeatEmUpCharacter::LookUpAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
-	AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
+	//AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
 }
 
