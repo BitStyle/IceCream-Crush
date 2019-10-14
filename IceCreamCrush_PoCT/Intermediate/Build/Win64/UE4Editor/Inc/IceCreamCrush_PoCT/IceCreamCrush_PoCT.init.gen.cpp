@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeIceCreamCrush_PoCT_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x6AE5AF94,
-				0xD894BD10,
+				0xC707FA6C,
+				0x68A5B754,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

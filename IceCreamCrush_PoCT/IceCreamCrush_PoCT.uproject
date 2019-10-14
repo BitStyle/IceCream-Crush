@@ -7,7 +7,10 @@
 		{
 			"Name": "IceCreamCrush_PoCT",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }
